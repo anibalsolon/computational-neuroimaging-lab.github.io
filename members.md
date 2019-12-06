@@ -14,6 +14,7 @@ title: Lab Members
 
 ## Students
 [Anibal Solon](mailto:anibalsolon@utexas.edu) - PhD Candidate, Computer Science
+
 [Pu Zhao](mailto:puzhao@utexas.edu) - Master's Candidate, Electrical and Computer Engineering
 
 ## Staff
